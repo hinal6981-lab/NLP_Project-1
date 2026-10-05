@@ -73,7 +73,3 @@ This project was developed as part of a team.
 Team Members:
 - Hinal Patel
 - Hitaishi Alwani
-
----
-
-⭐ If you found this project useful, consider giving it a star.
